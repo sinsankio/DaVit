@@ -1,0 +1,2 @@
+# the given model file could not be uploaded to GitHub due to LFS limit 100MB, download the model and locate on path app/chkpts/vit_v1.pth
+https://drive.google.com/file/d/15s-x9m4M1t37rcnkJK2L-vWxPveTwTOr/view?usp=sharing
