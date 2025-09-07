@@ -9,8 +9,9 @@ ENV POETRY_VERSION=2.1.4 \
 
 # Install curl and dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1 libglx-mesa0 \
     curl build-essential \
-    && rm -rf /var/lib/apt/lists/*
+    && rm -rf /var/lib/apt/lists/* 
 
 # Install Poetry
 RUN curl -sSL https://install.python-poetry.org | python3 - \
