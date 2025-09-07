@@ -8,7 +8,9 @@ DaVit is an innovative implementation of Vision Transformers (ViT) for autonomou
 
 ## Video Demonstration
 
-![DaVit in Action](assets/vit_live.gif)
+<p align="center">
+  <img src="assets/vit_live.gif" alt="DaVit in Action" width="100%">
+</p>
 
 ## What is DaVit?
 
