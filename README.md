@@ -6,7 +6,7 @@
 
 DaVit is an innovative implementation of Vision Transformers (ViT) for autonomous driving, specifically designed to work with the Udacity self-driving car simulator. This project demonstrates the power of attention mechanisms in computer vision tasks by applying them to **behavioral cloning** for autonomous vehicle control.
 
-## Real Time Simulation
+## Real Time Simulation (Autonomus mode)
 
 <p align="center">
   <img src="assets/vit_live.gif" alt="DaVit in Action" width="100%">
@@ -139,7 +139,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 **⭐ Star this repository if you found it helpful!**
-
-[Report Bug](https://github.com/your-username/attention-for-dave2/issues) · [Request Feature](https://github.com/your-username/attention-for-dave2/issues) · [Documentation](https://github.com/your-username/attention-for-dave2/wiki)
 
 </div>
